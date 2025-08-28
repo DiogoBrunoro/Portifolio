@@ -38,7 +38,7 @@ export const experienceData: ExperienceType[] = [
     company: "experiencias.experiencia05.empresa",
     startDate: "03/2020",
     finalDate: "06/2021",
-    description: "experiencias.experiencia5.descricao",
+    description: "experiencias.experiencia05.descricao",
     type: "experiencias.experiencia05.tipo",
   },
 ];
