@@ -1,0 +1,208 @@
+{
+    "header": {
+      "home": "Home",
+      "sobre": "About",
+      "habilidades": "Skills",
+      "projetos": "Projects",
+      "contato": "Contact"
+    },
+    "user": {
+      "desc": "I am a Full Stack Developer specialized in AI and automation, building end-to-end solutions that connect reactive frontends, robust APIs, and intelligent agents. I work on orchestrating automated workflows, integrating LLMs, and developing scalable cloud services, always with a strong focus on security, observability, and cost optimization. My goal is to reduce operational effort and accelerate value delivery with reliable, measurable, and easily scalable systems.",
+      "fullstack": "Full Stack",
+      "backend": "Back-End",
+      "ai": "AI",
+      "software": "Software"
+    },
+    "home": {
+      "desenvolvedor": "Developer",
+      "btnTexto01": "Download Resume",
+      "btnTexto02": "Get in Touch"
+    },
+    "destaquesSecao": {
+      "titulo": "Highlights",
+      "subtitulo": "Check out some of my key projects.",
+      "btnTexto": "View All Projects"
+    },
+    "footer": {
+      "navegacao": "Navigation",
+      "conecte": "Connect",
+      "direitos": "All rights reserved."
+    },
+    "projetosSecao": {
+      "titulo": "My Projects",
+      "subtitulo": "A selection of what I've developed.",
+      "filtros": {
+        "all": "All"
+      }
+    },
+    "sobreSecao": {
+      "titulo": "About Me"
+    },
+    "experienciaSecao": {
+      "titulo": "Experiences",
+      "subtitulo": "My academic and professional journey."
+    },
+    "habilidadesSecao": {
+      "titulo": "My Skills",
+      "subtitulo": "Key technical skills I master.",
+      "filtros": {
+        "todos": "All",
+        "frontend": "Front-End",
+        "backend": "Back-End",
+        "mobile": "Mobile",
+        "database": "Database",
+        "devops": "DevOps",
+        "testing": "Testing",
+        "design": "Design",
+        "tools": "Tools",
+        "outros": "Others"
+      }
+    },
+    "estatisticasSecao": {
+      "titulo": "Statistics",
+      "estatisticas": {
+        "projetos": "Projects",
+        "anos": "Years",
+        "clientes": "Clients",
+        "dedicacao": "Dedication",
+        "satisfacao": "Client Satisfaction"
+      }
+    },
+    "projetoModal": {
+      "sobre": "About the Project",
+      "tecnologias": "Technologies Used",
+      "btnTexto01": "View Online",
+      "btnTexto02": "View Code"
+    },
+    "contatoSecao": {
+      "titulo": "Contacts",
+      "subtitulo": "Like what you see? Reach out through one of these channels.",
+      "cardEmail": {
+        "titulo": "Send Your Message",
+        "labelNome": "Name",
+        "labelTelefone": "Phone",
+        "labelMensagem": "Message",
+        "btnTexto": "Send Message"
+      },
+      "titulo02": "Connect via",
+      "alert": "Please fill in all fields before sending the message."
+    },
+    "chat": {
+      "titulo": "Personal Assistant",
+      "placeholder": "Type your message...",
+      "mensagemInicial": "Hi! How can I help you today? Ask me anything about Diogo."
+    },
+    "servicosSecao": {
+      "titulo": "My Services",
+      "subtitulo": "Complete solutions to transform ideas into digital reality."
+    },
+    "servicos": {
+      "sites": {
+        "titulo": "Website Development",
+        "descricao": "Modern, responsive, and optimized corporate websites for your business."
+      },
+      "landing": {
+        "titulo": "Landing Pages",
+        "descricao": "Conversion-focused pages designed to boost your sales and lead generation."
+      },
+      "ecommerce": {
+        "titulo": "E-Commerce",
+        "descricao": "Full-featured online stores with integrated payment systems and product management."
+      },
+      "linkBio": {
+        "titulo": "Link in Bio",
+        "descricao": "Custom pages to centralize your links and social networks."
+      },
+      "manutencao": {
+        "titulo": "Maintenance",
+        "descricao": "Technical support, updates, and continuous improvements for your website."
+      },
+      "personalizado": {
+        "titulo": "Custom Project",
+        "descricao": "Tailor-made solutions for your business’s specific needs."
+      }
+    },
+    "experiencias": {
+      "experiencia01": {
+        "papel": "Digital Transformation Intern",
+        "empresa": "GE Vernova",
+        "descricao": "Worked on developing applications and tools focused on automation and improving internal processes.",
+        "tipo": "Work"
+      },
+      "experiencia02": {
+        "papel": "HackaTruck Participant",
+        "empresa": "Eldorado",
+        "descricao": "Hands-on experience with cloud computing and Swift development through an itinerant training project.",
+        "tipo": "Study"
+      },
+      "experiencia03": {
+        "papel": "Calculus Teaching Assistant",
+        "empresa": "PUC Minas",
+        "descricao": "Provided academic support in Calculus I for students in Mathematics and Computer Science programs.",
+        "tipo": "Work"
+      },
+      "experiencia04": {
+        "papel": "Software Engineering Student",
+        "empresa": "PUC Minas",
+        "descricao": "Project-based training with a focus on architecture, data structures, databases, and embedded systems. Emphasis on best practices such as testing, version control, CI/CD, agile methodologies, and AI foundations to deliver scalable, secure, and production-ready solutions.",
+        "tipo": "Study"
+      },
+      "experiencia05": {
+        "papel": "Card Reconciliation Assistant",
+        "empresa": "Oasis Building Materials",
+        "descricao": "Responsible for credit and debit card reconciliation activities, ensuring financial accuracy for the company.",
+        "tipo": "Volunteering"
+      }
+    },
+    "projects": {
+      "btnTexto": "View Details",
+      "types": {
+        "sites": "Websites",
+        "landing": "Landing Pages",
+        "apps": "Applications",
+        "ecommerce": "E-Commerce",
+        "others": "Others"
+      },
+      "status": {
+        "inProgress": "In Progress",
+        "done": "Completed"
+      },
+      "Ajunta": {
+        "title": "Ajunta",
+        "description": "A social network designed to promote and connect the artistic community of Contagem. Artists can create profiles, publish their work, connect with other creators, and discover local opportunities. The platform’s goal is to strengthen the cultural ecosystem, foster partnerships, and give visibility to local talent through portfolios, events, and community interactions."
+      },
+      "Igreja-Vida-Nova": {
+        "title": "Igreja Vida Nova",
+        "description": "Web application created to support the management of a local parish. Developed in an interdisciplinary course and awarded as the best project of the semester."
+      },
+      "EliteContrucoes": {
+        "title": "Elite Construções",
+        "description": "Web application for construction company management and product sales, providing clients with transparency and control over the progress of their projects."
+      },
+      "Portifolio": {
+        "title": "Portfolio",
+        "description": "A dynamic and interactive portfolio that, in addition to showcasing projects and experiences, integrates an AI assistant. This assistant helps visitors explore content, understand the technologies used, navigate relevant projects, and answer questions in real time, making the portfolio an engaging and personalized experience."
+      },
+      "JavaParking": {
+        "title": "Java Parking",
+        "description": "Desktop application for parking management, featuring client and vehicle registration, access history, and user frequency analysis. Fully integrated with a database."
+      },
+      "HeartBit": {
+        "title": "HeartBit",
+        "description": "Mobile application that monitors the user’s heart rate through connected devices. In case of anomalies, it alerts emergency contacts. Additional features include BMI calculation and AI-powered personalized health recommendations."
+      },
+      "EasyTraining": {
+        "title": "Easy Training",
+        "description": "Platform designed to help athletes of all levels create personalized workout plans tailored to their goals and needs, eliminating the dependency on expensive personal trainers."
+      },
+      "RickMortyCatalogo": {
+        "title": "Rick & Morty Catalog",
+        "description": "Web application consuming the Rick and Morty API to display an interactive character catalog. Developed to practice and enhance JavaScript skills."
+      },
+      "Tic-Tac-Toe": {
+        "title": "Tic-Tac-Toe",
+        "description": "Simple tic-tac-toe game built to consolidate programming logic and DOM manipulation fundamentals in JavaScript."
+      }
+    }
+  }
+  

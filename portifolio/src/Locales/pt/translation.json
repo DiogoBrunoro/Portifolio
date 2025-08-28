@@ -1,0 +1,208 @@
+{
+    "header": {
+      "home": "Home",
+      "sobre": "Sobre",
+      "habilidades": "Habilidades",
+      "projetos": "Projetos",
+      "contato": "Contato"
+    },
+    "user": {
+      "desc": "Sou Desenvolvedor Full Stack especializado em IA e automação, criando soluções ponta a ponta que conectam frontends reativos, APIs robustas e agentes inteligentes. Trabalho com orquestração de fluxos automatizados, integrações com LLMs e construção de serviços escaláveis em nuvem, sempre com atenção à segurança, observabilidade e custo. Meu objetivo é reduzir esforço operacional e acelerar a entrega de valor com sistemas confiáveis, mensuráveis e fáceis de evoluir.",
+      "fullstack": "Full Stack",
+      "backend": "Back-End",
+      "ai": "de IA",
+      "software": "de Software"
+    },
+    "home": {
+      "desenvolvedor": "Desenvolvedor",
+      "btnTexto01": "Baixar Currículo",
+      "btnTexto02": "Entrar em Contato"
+    },
+    "destaquesSecao": {
+      "titulo": "Meus Destaques",
+      "subtitulo": "Confira alguns dos meus principais trabalhos.",
+      "btnTexto": "Ver Todos os Projetos"
+    },
+    "footer": {
+      "navegacao": "Navegação",
+      "conecte": "Conecte-se",
+      "direitos": "Todos os direitos reservados."
+    },
+    "projetosSecao": {
+      "titulo": "Meus Projetos",
+      "subtitulo": "Um pouco do que já desenvolvi.",
+      "filtros": {
+        "all": "Todos"
+      }
+    },
+    "sobreSecao": {
+      "titulo": "Sobre Mim"
+    },
+    "experienciaSecao": {
+      "titulo": "Experiências",
+      "subtitulo": "Minha trajetória acadêmica e profissional."
+    },
+    "habilidadesSecao": {
+      "titulo": "Minhas Habilidades",
+      "subtitulo": "Principais competências técnicas que domino.",
+      "filtros": {
+        "todos": "Todos",
+        "frontend": "Front-End",
+        "backend": "Back-End",
+        "mobile": "Mobile",
+        "database": "Banco de Dados",
+        "devops": "DevOps",
+        "testing": "Testes",
+        "design": "Design",
+        "tools": "Ferramentas",
+        "outros": "Outros"
+      }
+    },
+    "estatisticasSecao": {
+      "titulo": "Estatísticas",
+      "estatisticas": {
+        "projetos": "Projetos",
+        "anos": "Anos",
+        "clientes": "Clientes",
+        "dedicacao": "Dedicação",
+        "satisfacao": "Satisfação do Cliente"
+      }
+    },
+    "projetoModal": {
+      "sobre": "Sobre o Projeto",
+      "tecnologias": "Tecnologias Utilizadas",
+      "btnTexto01": "Ver Online",
+      "btnTexto02": "Ver Código"
+    },
+    "contatoSecao": {
+      "titulo": "Contatos",
+      "subtitulo": "Gostou do que viu? Entre em contato por um desses canais.",
+      "cardEmail": {
+        "titulo": "Envie sua mensagem",
+        "labelNome": "Nome",
+        "labelTelefone": "Telefone",
+        "labelMensagem": "Mensagem",
+        "btnTexto": "Enviar Mensagem"
+      },
+      "titulo02": "Conecte-se por",
+      "alert": "Por favor, preencha todos os campos para enviar a mensagem."
+    },
+    "chat": {
+      "titulo": "Assistente Pessoal",
+      "placeholder": "Digite sua mensagem...",
+      "mensagemInicial": "Olá! Como posso ajudar hoje? Pergunte qualquer coisa sobre o Diogo."
+    },
+    "servicosSecao": {
+      "titulo": "Meus Serviços",
+      "subtitulo": "Soluções completas para transformar ideias em realidade digital."
+    },
+    "servicos": {
+      "sites": {
+        "titulo": "Criação de Sites",
+        "descricao": "Sites institucionais modernos, responsivos e otimizados para sua empresa."
+      },
+      "landing": {
+        "titulo": "Landing Pages",
+        "descricao": "Páginas otimizadas para conversão, aumentando suas vendas e geração de leads."
+      },
+      "ecommerce": {
+        "titulo": "E-Commerces",
+        "descricao": "Lojas virtuais completas com sistema de pagamentos integrado e gestão de produtos."
+      },
+      "linkBio": {
+        "titulo": "Link na Bio",
+        "descricao": "Páginas personalizadas para centralizar seus links e redes sociais."
+      },
+      "manutencao": {
+        "titulo": "Manutenção",
+        "descricao": "Suporte técnico, atualizações e melhorias contínuas para seu site."
+      },
+      "personalizado": {
+        "titulo": "Projeto Personalizado",
+        "descricao": "Soluções sob medida para as necessidades específicas do seu negócio."
+      }
+    },
+    "experiencias": {
+      "experiencia01": {
+        "papel": "Estagiário em Transformação Digital",
+        "empresa": "GE Vernova",
+        "descricao": "Atuação no desenvolvimento de aplicações e ferramentas voltadas para automação e melhoria de processos internos.",
+        "tipo": "Trabalho"
+      },
+      "experiencia02": {
+        "papel": "Participante HackaTruck",
+        "empresa": "Eldorado",
+        "descricao": "Experiência prática em computação em nuvem e desenvolvimento com Swift, por meio de projeto itinerante de capacitação.",
+        "tipo": "Estudo"
+      },
+      "experiencia03": {
+        "papel": "Monitor de Cálculo",
+        "empresa": "PUC Minas",
+        "descricao": "Responsável pelo apoio acadêmico em Cálculo I para estudantes dos cursos de Matemática e Informática.",
+        "tipo": "Trabalho"
+      },
+      "experiencia04": {
+        "papel": "Graduando em Engenharia de Software",
+        "empresa": "PUC Minas",
+        "descricao": "Formação baseada em projetos, com foco em arquitetura, estruturas de dados, bancos de dados e sistemas embarcados. Ênfase em boas práticas como testes, versionamento, CI/CD, métodos ágeis e fundamentos de IA, visando soluções escaláveis, seguras e prontas para produção.",
+        "tipo": "Estudo"
+      },
+      "experiencia05": {
+        "papel": "Conciliador de Cartões",
+        "empresa": "Oasis Materiais para Construção",
+        "descricao": "Responsável pelas atividades de conciliação de cartões de crédito e débito, assegurando a acuracidade financeira da empresa.",
+        "tipo": "Voluntariado"
+      }
+    },
+    "projects": {
+      "btnTexto": "Ver Detalhes",
+      "types": {
+        "sites": "Sites",
+        "landing": "Landing Pages",
+        "apps": "Aplicativos",
+        "ecommerce": "E-Commerce",
+        "others": "Outros"
+      },
+      "status": {
+        "inProgress": "Em Andamento",
+        "done": "Finalizado"
+      },
+      "Ajunta": {
+        "title": "Ajunta",
+        "description": "Rede social criada para valorizar e integrar a cena artística de Contagem. Artistas podem criar perfis, publicar trabalhos, se conectar com outros criadores e descobrir oportunidades locais. O objetivo é fortalecer o ecossistema cultural, estimular parcerias e dar visibilidade a talentos por meio de portfólios, eventos e interações comunitárias."
+      },
+      "Igreja-Vida-Nova": {
+        "title": "Igreja Vida Nova",
+        "description": "Aplicação web para auxiliar a gestão de uma paróquia local. Projeto desenvolvido em disciplina interdisciplinar e premiado como melhor projeto do turno."
+      },
+      "EliteContrucoes": {
+        "title": "Elite Construções",
+        "description": "Aplicação web para gestão de empreiteiras e vendas de produtos, oferecendo transparência aos clientes sobre o andamento de suas obras."
+      },
+      "Portifolio": {
+        "title": "Portfólio",
+        "description": "Portfólio dinâmico e interativo que, além de apresentar projetos e experiências, conta com um assistente de IA integrado. Esse assistente ajuda visitantes a navegar, entender tecnologias utilizadas, explorar projetos relevantes e tirar dúvidas em tempo real, transformando o portfólio em uma experiência personalizada."
+      },
+      "JavaParking": {
+        "title": "Java Parking",
+        "description": "Aplicação desktop para gestão de estacionamentos, incluindo cadastro de clientes e veículos, histórico de acessos e análise de frequência de usuários. Totalmente integrado a um banco de dados."
+      },
+      "HeartBit": {
+        "title": "HeartBit",
+        "description": "Aplicativo que monitora os batimentos cardíacos do usuário por meio de dispositivos conectados. Em caso de alterações, emite alertas para contatos de emergência. Inclui também funcionalidades de cálculo de IMC e sugestões personalizadas baseadas em IA para cuidados com a saúde."
+      },
+      "EasyTraining": {
+        "title": "Easy Training",
+        "description": "Plataforma criada para auxiliar atletas de diferentes níveis a montarem fichas de treino personalizadas de acordo com seus objetivos e necessidades, sem depender de personal trainers caros e inacessíveis."
+      },
+      "RickMortyCatalogo": {
+        "title": "Rick & Morty Catálogo",
+        "description": "Aplicação web que consome a API do Rick and Morty para exibir um catálogo interativo de personagens, desenvolvida para praticar e aprimorar habilidades em JavaScript."
+      },
+      "Tic-Tac-Toe": {
+        "title": "Tic-Tac-Toe",
+        "description": "Jogo da velha simples, criado para consolidar fundamentos de lógica de programação e manipulação de DOM em JavaScript."
+      }
+    }
+  }
+  
